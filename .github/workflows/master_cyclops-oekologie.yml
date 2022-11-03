@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Cyclops-Oekologie'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FA703605B904B918F6A6F07551270D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3094951D7884903893221C246AE98B1 }}
